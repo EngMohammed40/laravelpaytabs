@@ -1,0 +1,22 @@
+{
+    "name": "webiver/laravelpaytabs",
+    "description": "Paytabs Payment Gateway Intgration with Laravel",
+    "autoload": {
+        "psr-4": {
+            "Webiver\\LaravelPaytabs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EngMohammed40",
+            "email": "engmohammedahmed40@gmail.com"
+        },
+        {
+            "name": "mhusseinsaad",
+            "email": "mh8509824@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
